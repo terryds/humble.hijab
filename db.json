@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "http://cdn.vanillahijab.com/media/catalog/product/cache/4/image/1100x1100/9df78eab33525d08d6e5fb8d27136e95/d/4/d4929c92-bbc4-4b09-8129-c6a7bcde4b07.jpg",
+      "caption": "Dress berbahan Rayon Ultima super nyaman. 100% di desain untuk iklim tropis Indonesia.",
+      "price": {
+      	"unit": "Rp",
+      	"nominal": "195000"
+      },
+      "variant": {
+      	"size": ["M","L","XL"]
+      },
+      "weight": "300",
+      "stock": 1000
+    },
+    {
+      "id": 2,
+      "image": "http://cdn.vanillahijab.com/media/catalog/product/cache/4/image/1100x1100/9df78eab33525d08d6e5fb8d27136e95/p/h/photo-2019-12-27-15-36-46_4.jpg",
+      "caption": "Tunik berbahan Premium Silky. Busui Friendly dengan full kancing",
+      "price": {
+      	"unit": "Rp",
+      	"nominal": "200000"
+      },
+      "variant": {
+      	"size": ["S","M","L","XL"]
+      },
+      "weight": "300",
+      "stock": 1000
+    },
+    {
+      "id": 2,
+      "image": "http://cdn.vanillahijab.com/media/catalog/product/cache/4/image/1100x1100/9df78eab33525d08d6e5fb8d27136e95/i/m/image_12-27-19_at_2.08_pm.jpg",
+      "caption": "Rayon Ultima Special Edition. Busui Friendly dengan full kancing",
+      "price": {
+      	"unit": "Rp",
+      	"nominal": "210000"
+      },
+      "variant": {
+      	"size": ["S","M","L","XL"]
+      },
+      "weight": "300",
+      "stock": 1000
+    }
+  ],
+  "profile": {
+    "username": "humble.hijab",
+    "name": "Humble Hijab",
+    "logo": "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/82155851_1070418656646406_6707694534924435456_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=ZzVyG6NREVUAX9vlWFO&oh=bdfbae46758c02d4875245e738976c11&oe=5ED87609",
+    "description": "𝗕𝗲 𝗛𝘂𝗺𝗯𝗹𝗲!\nPesona Hijab Indonesia, Berkualitas Tinggi",
+    "contact": {
+    	"whatsapp": "6281211439874"
+    },
+    "address": "Jl. Gelap Nyawang No.1, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132"
+  }
+}
